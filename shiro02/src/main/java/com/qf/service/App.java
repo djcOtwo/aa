@@ -11,5 +11,7 @@ public class App
         System.out.println( "Hello World!" );
 
         System.out.println("新增、添加");
+        
+        System.out.println("I'm小四眼");
     }
 }
